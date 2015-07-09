@@ -1,3 +1,17 @@
-/**
- * Created by cyber05 on 8/07/2015.
- */
+'use strict';
+
+// optional controllers
+function HomeCtrl($scope, $http) {
+}
+
+function AboutCtrl($scope, $http) {
+}
+
+function ResumeCtrl($scope, $http, $timeout) {
+}
+
+function PortCtrl($scope, $http, $timeout) {
+}
+
+function ContactCtrl($scope, $http, $timeout) {
+}

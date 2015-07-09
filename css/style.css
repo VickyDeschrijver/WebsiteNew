@@ -3,8 +3,8 @@
 
 /* General */
 body {
-	font-family: 'Muli', sans-serif;
-	font-size:14px;
+	font-family: 'Yanone Kaffeesatz', sans-serif;
+	font-size:18px;
 }
 
 .opsomming li{
@@ -40,7 +40,14 @@ dd {
     margin-bottom: 3.5em;
 }
 
+.main {
+	margin-top: 200px;
+	color: black;
+}
 
+.green {
+	background-color: green;
+}
 
 /* contact */
 #contacticon {
@@ -116,9 +123,15 @@ footer {
 	border: 3px solid #a6a7a1; 
 }
 
+.brand-logo {
+	font-size: 2em;
+	color: white;
+}
+
 .tabs {
 	right: 5px;
 	width:45% !important;
+	background-color: transparent;
 }
 .tab a {
 	color:white !important;
@@ -147,6 +160,9 @@ div {
 		
 }
 
+nav ul a {
+	font-size: 1em;
+}
 
 
 /* homepage */
